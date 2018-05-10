@@ -1,8 +1,5 @@
-2D map with GUI created as a project to learn more about pathfinding algorithms, as well as test their workings and performance.
-
-
-Implemented pathfinding algorithms:
- -BFS
- -DFS
- -Dijkstra
- -Astar
+Created as a project to learn more about pathfinding algorithms, as well as test their workings and performance.\nThe program features a 2D map with GUI where diferent types of terrain can be created and then explored using the pathfinding algorithms implemented:  
+-BFS  
+-DFS  
+-Dijkstra  
+-Astar  
