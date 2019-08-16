@@ -5,11 +5,6 @@ from PathfindEngine import PathfindEngine
 '''
 To-do List:
 	Make terrain spawn with some position logic
-	Allow pathfinding algorithms path´s to be compared
-	
-Fixes/Bugs:
-	Improve error handling
-	Improve window cell colors
 '''
 
 
